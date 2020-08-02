@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the first string : ");
         String s1 = sc.nextLine();
